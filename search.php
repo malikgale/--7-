@@ -1,8 +1,8 @@
 <?php
 $connection_params = array(      
 	"host"     => "localhost",   
-	"username" => "root",        
-	"password" => "mike",        
+	"username" => "cl52-search",        
+	"password" => "lhg;12345",        
 	"database" => "search"       
 );                               
 
